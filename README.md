@@ -6,3 +6,9 @@ There are a few branches on this repository.
 `main` - Where the latest code is stored.
 `v*.*.*` Specific versions of the code.
 `dev` - All code in development beta.
+
+## Contributors
+These people have contributed to the R&CM development team.
+`micheal.r (micheal-r)` - Lead development
+`stefpower (stefpower1)` - Co-Lead development
+`togz8 (togz819)` - R&CM web development
