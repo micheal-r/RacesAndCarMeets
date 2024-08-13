@@ -3,12 +3,12 @@ This repository contains all code of the R&CM discord bot, webpanel and other si
 
 ## Branches
 There are a few branches on this repository.
-`main` - Where the latest code is stored.
-`v*.*.*` Specific versions of the code.
-`dev` - All code in development beta.
+<p>main - Where the latest code is stored.</p>
+<p>v*.*.* Specific versions of the code.</p>
+<p>dev - All code in development beta.</p>
 
 ## Contributors
 These people have contributed to the R&CM development team.
-`micheal.r (micheal-r)` - Lead development
-`stefpower (stefpower1)` - Co-Lead development
-`togz8 (togz819)` - R&CM web development
+<p>micheal.r (micheal-r) - Lead development</p>
+<p>stefpower (stefpower1) - Co-Lead development</p>
+<p>togz8 (togz819) - R&CM web development</p>
